@@ -144,6 +144,24 @@ CMYcircle = [
     "#55FFD5",
 ]
 
+CMYcircle15 = [
+    "#00FFFF",
+    "#24DBFF",
+    "#49B6FF",
+    "#6D92FF",
+    "#926DFF",
+    "#B649FF",
+    "#DB24FF",
+    "#FF00FF",
+    "#FF24DB",
+    "#FF49B6",
+    "#FF6D92",
+    "#FF926D",
+    "#FFB649",
+    "#FFDB24",
+    "#FFFF00",
+]
+
 
 redGreenAlternate = [
     "#FF0000",
