@@ -21,7 +21,7 @@ class Run(Scene):
         title1.move_to([0,4.5,0])
 
         title2 = Text("subtitle 1", font="Corbel", gradient=c)
-        title3 = Text("subtitle 2", font="Corbel", gradient=["#ff00cc", WHITE])
+        title3 = Text("subtitle 2", font="Corbel", gradient=c)
         title2.move_to([0,-4.5,0])
         title3.move_to([0,-5.5,0])
 
