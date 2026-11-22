@@ -28,4 +28,5 @@ def load_files(path, maxLength, fadeTime):
             sf.write(out_dir / file.name, data, sr)
 
 
-load_files("sounds/harp/31EDO#11", 1.4, 0.2)
+#load_files("sounds/harp/31EDO#11", 1.4, 0.2)
+
